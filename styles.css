@@ -1,6 +1,6 @@
 body {
     background: rgb(12, 35, 64); /* background base colour */
-    background: linear-gradient(151deg, blue 25%, green 50%); /* ratio between 2 colours */
+    background: linear-gradient(151deg, rgb(235, 131, 174) 25%, rgb(255, 178, 83) 50%); /* ratio between 2 colours */
     color: black;
     font-family: 'Open Sans', sans-serif; /* text format */
     font-size: 15px; /* text size */
